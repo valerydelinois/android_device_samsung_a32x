@@ -19,4 +19,5 @@ jobs:
     - name: Send greeting
       run: |
         sh vendorsetup.sh
-        sh setup-makefile.sh
+        sh setup-makefiles.sh
+        make recoveryimage
