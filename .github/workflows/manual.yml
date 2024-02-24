@@ -19,3 +19,4 @@ jobs:
     - name: Send greeting
       run: |
         sh vendorsetup.sh
+        sh setup-makefile.sh
