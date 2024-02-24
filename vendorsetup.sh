@@ -5,6 +5,4 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-COMMON_LUNCH_CHOICES omni_a32x-user
-COMMON_LUNCH_CHOICES omni_a32x-userdebug
 COMMON_LUNCH_CHOICES omni_a32x-eng
