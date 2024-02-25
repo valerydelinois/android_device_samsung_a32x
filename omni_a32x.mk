@@ -16,7 +16,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/samsung/a32x/device.mk)
 
 PRODUCT_DEVICE := a32x
-PRODUCT_NAME := twrp_a32x
+PRODUCT_NAME := omni_a32x
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SM-A326K
 PRODUCT_MANUFACTURER := samsung
